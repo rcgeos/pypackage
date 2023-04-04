@@ -15,7 +15,7 @@
 -   GitHub actions: Ready for GitHub Continuous Integration testing
 -   [bump2version](https://github.com/c4urself/bump2version): Pre-configured version bumping with a single command
 -   Auto-release to [PyPI](https://pypi.python.org/pypi) when you push a new tag to master (optional)
--   Command line interface using Click (optional)
+-   Command line interface using Click (optional) also
 
 ## Quickstart
 
