@@ -57,7 +57,6 @@ have to be a fork.
 -   It's up to you whether or not to rename your fork/own version. Do
     whatever you think sounds good.
 
-### Or Submit a Pull Request
+### Development Stage 
 
-I also accept pull requests on this, if they're small, atomic, and if
-they make my own packaging experience better.
+This is still under development. 
