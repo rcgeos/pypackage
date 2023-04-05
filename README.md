@@ -44,6 +44,7 @@ Other options:
 ### Similar Cookiecutter Templates
 
 -   [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage): Cookiecutter template for a Python package.
+-   [giswqs/pypackage](https://github.com/giswqs/pypackage) : Cookiecutter template for a Python package cloned for this repo. 
 
 ### Fork This / Create Your Own
 
